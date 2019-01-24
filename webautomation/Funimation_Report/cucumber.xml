@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0">
+<testcase classname="Funimation Login and Subscription" name="As a User i want to subscribe for Monthly Subscription" time="0">
+<skipped><![CDATA[Given A user navigates to FUNimation site...................................undefined
+When the user wants create an Subsciprtion Account..........................undefined
+Then He should be able to subscribe successfully............................undefined
+And verify details in Thank you page........................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Funimation Login and Subscription" name="As a User i want to subscribe for Monthly Subscription" time="0">
+<skipped><![CDATA[Given A user navigates to FUNimation site...................................undefined
+When the user wants create an Subsciprtion Account..........................undefined
+Then He should be able to subscribe successfully............................undefined
+And verify details in Thank you page........................................undefined
+And Should log out successfully.............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
